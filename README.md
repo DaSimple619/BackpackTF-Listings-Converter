@@ -8,19 +8,18 @@ This UserScript converts listing prices on [backpack.tf](https://backpack.tf/) t
 
 2. **Open the Script**: Click [here](https://github.com/exampleuser/listings-to-dollar-converter/raw/main/listings-to-dollar-converter.user.js) to download the UserScript. Tampermonkey should automatically recognize the script and prompt you to install it. Confirm the installation.
 
-## Setting the Mann Co. Supply Crate Key
-
-To set the Key price, follow these steps:
+## Setting the Mann Co. Supply Crate Key $ Price
 
 1. Navigate to [backpack.tf](https://backpack.tf/).
 
-2. Click on the ![Cat Icon](https://community.cloudflare.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgAmo9Sluha-FkTznMSxrnFf6qevMP1sc_bEDzfFk7pw6OA4S3vkxEt04G3UnNn9bzvJObtcxna3/96fx96f?allow_animated=1)
-in the user interface. This will open a menu.
+2. Allow the autobot.tf price fetch. And a menu will show up and you'll find an input field labeled "Key $ Price". Enter the current key price in dollars in this field. For example, if the key price is 1.66, enter "1.66" (without quotes).
 
-3. In the menu, you'll find an input field labeled "Key $ Price". Enter the current key price in dollars in this field. For example, if the key price is 1.66, enter "1.66" (without quotes).
+3. Click "Save". The page will refresh, and the script will use the provided key price for conversions.
 
-4. Click "Save". The page will refresh, and the script will use the provided key price for conversions.
+4. To UPDATE the Key price click on the cat icon (<img src="https://community.cloudflare.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgAmo9Sluha-FkTznMSxrnFf6qevMP1sc_bEDzfFk7pw6OA4S3vkxEt04G3UnNn9bzvJObtcxna3/96fx96f?allow_animated=1" alt="Cat Icon" width="24" height="24">) The menu should show up again.
 
-Now, whenever you visit backpack.tf, listing prices will be converted to their equivalent dollar values based on the key price you've set.
+# Resume
+
+Now, whenever you visit backpack.tf, the listings will be converted to their equivalent dollar values based on the key price you've set.
 
 **Note**: If you don't see the cat icon, ensure that the UserScript is properly installed and enabled in Tampermonkey. You may need to refresh the page after installing the script.
