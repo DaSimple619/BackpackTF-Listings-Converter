@@ -57,7 +57,7 @@
         console.log(convertedPrice)
     }
 
-    async function openMenu(title = "mannco.store key price (ex: 1.66)") {
+    async function openMenu(title = "Set the key price (ex: 1.66)") {
         const manncoKeyPrice = await GM_getValue("manncoKeyPrice");
 
         const container = document.createElement('div');
