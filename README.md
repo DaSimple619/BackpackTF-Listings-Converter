@@ -12,7 +12,7 @@ This UserScript converts listing prices on [backpack.tf](https://backpack.tf/) t
 
 1. Navigate to [backpack.tf](https://backpack.tf/).
 
-2. Allow the autobot.tf price fetch. And a menu will show up and you'll find an input field labeled "Key $ Price". Enter the current key price in dollars in this field. For example, if the key price is 1.66, enter "1.66" (without quotes).
+2. Allow the autobot.tf price fetch. A menu will show up and you'll find an input field labeled "Key $ Price". Enter the current key price in dollars in this field. For example, if the key price is 1.66, enter "1.66" (without quotes).
 
 3. Click "Save". The page will refresh, and the script will use the provided key price for conversions.
 
