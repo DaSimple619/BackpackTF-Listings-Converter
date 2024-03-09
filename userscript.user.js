@@ -4,7 +4,8 @@
 // @version      1.0
 // @description  Converts to mannco price or something...
 // @author       chatgpt
-// @match        https://backpack.tf/*
+// @match        https://www.backpack.tf/classifieds?*
+// @match        https://backpack.tf/stats/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
