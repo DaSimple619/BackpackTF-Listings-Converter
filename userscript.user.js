@@ -44,7 +44,7 @@
         container.onclick = () => openMenu();
 
         let img = document.createElement('img');
-        img.src = "https://community.cloudflare.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgAmo9Sluha-FkTznMSxrnFf6qevMP1sc_bEDzfFk7pw6OA4S3vkxEt04G3UnNn9bzvJObtcxna3/96fx96f?allow_animated=1"
+        img.src = "https://community.akamai.steamstatic.com/economy/image/a0b44yVZG6xneuQqGEgxNyzAxlmouy8Ipo0bUlJjRDfF9dQS1eD3AHU-t8xnioHyGdqSZpgsmMIM6FMAdgOWUqoht1Zu2EwGmnmPPpnuFqmbpDiv_I1VE_fc5-mkiMO2_3BUj8Z1btobccu3_f2f-2oGJg/96fx96f?allow_animated=1"
         img.style.width = '24px'
         container.append(img)
 
@@ -196,3 +196,4 @@
         }
     }
 })();
+
